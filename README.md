@@ -1,5 +1,7 @@
-Light-weight Network IDE
-========================
+LightN -- A Light-weight Network IDE Engine
+===========================================
+
+> Let's become a blot of lightning. :joy:
 
 I'm going to start an independent project to deliver a light-weight IDE for SDN high-level programming.
 
